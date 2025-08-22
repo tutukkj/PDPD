@@ -1,4 +1,4 @@
-# ⚡ Modelo de Consumo Energético para Drones
+# Projeto PDPD - Implementação de modelos teóricos de consumo de energia para VANTs (Drones)
 
 ## 📖 Sobre o Projeto
 Projeto de pesquisa de Iniciação Científica da UFABC, desenvolvido no programa *Pesquisando Desde o Primeiro Dia (PDPD)*. Oferece uma ferramenta em Python para cálculo de consumo energético e potência em drones de asa rotativa e asa fixa, baseada em modelos teóricos validados pela literatura.
