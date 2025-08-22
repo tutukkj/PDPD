@@ -1,19 +1,19 @@
 # Projeto PDPD - Implementação de modelos teóricos de consumo de energia para VANTs (Drones)
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 Projeto de pesquisa de Iniciação Científica da UFABC, desenvolvido no programa *Pesquisando Desde o Primeiro Dia (PDPD)*. Oferece uma ferramenta em Python para cálculo de consumo energético e potência em drones de asa rotativa e asa fixa, baseada em modelos teóricos validados pela literatura.
 
-## ✨ Funcionalidades
+##  Funcionalidades
 - **Cálculo**: Estimativa de potência instantânea ou energia consumida ao longo do tempo
 - **Modelos Teóricos Validados**: Equações para drones de asa rotativa e asa fixa
 - **Banco de Dados Editável**: Parâmetros armazenados em CSV para fácil adição de novos modelos
 - **Uso por Terminal**: Execução e parametrização direta via terminal
 
-## ⚙️ Pré-requisitos
+##  Pré-requisitos
 - Python 3.10 ou superior
 - Bibliotecas: `pandas` e `numpy`
 
-## 🚀 Como Usar
+## Como Usar
 
 ### 1. Clonar e Instalar
 ```bash
@@ -45,7 +45,7 @@ python src/main.py --m Modelo_generico --t 55 --c energia
 python src/main.py --m PHX --t 30 --c potencia
 ```
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 ```
 .
 ├── data/
